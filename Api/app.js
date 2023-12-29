@@ -18,6 +18,6 @@ app.use('/', userRoutes);
 
 //app.use('/category', userRoutes);
 
-app.listen(3001)
+app.listen(3000)
 
 console.log("SERVER INVOKED ON PORT 3001");
